@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg006/v1
 canonical_location: https://kanripo.org/bkk/KR3eg006/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 重訂廣溫熱論
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg006_000.yaml, hash: 'sha256:8619937090a83454fd2264e472ba00613837c78a9dbdc43cd8498b33f5a98e60'}
-  - {seq: 1, filename: KR3eg006_001.yaml, hash: 'sha256:cfc69e7720138b7d4fa5f246aaa3e44a4e666cf6b694370e51ec9f87f7fa5f34'}
-  - {seq: 2, filename: KR3eg006_002.yaml, hash: 'sha256:79e479cdbe2e8fd7e49165922da0c1c9cd8e8b9c2ba10442236e269a483ae1cf'}
+  - {seq: 0, filename: KR3eg006_000.yaml, hash: 'sha256:35cdeeb537d6b0d989b4ff8a630f4dfb07d899e334c6eacc46151640d2089481'}
+  - {seq: 1, filename: KR3eg006_001.yaml, hash: 'sha256:255187b9d491fc5146ea65a983a57c4ab3ce89f4b4acc905a02c07352a653cd9'}
+  - {seq: 2, filename: KR3eg006_002.yaml, hash: 'sha256:ed77f1732483f48ef0ec52dabaf32e0d6c107323526b1fcaa5e12a3a253d5cda'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg006_000.markers.yaml, hash: 'sha256:7eb4d4ed08905ccfedd835f9243411442a6735531c543221258416c5d236f814'}
-  - {seq: 1, role: markers, filename: assets/KR3eg006_001.markers.yaml, hash: 'sha256:455e43981f1812ac97c7b4ce8be986fab277f81f288be099beb917980d82fd63'}
-  - {seq: 2, role: markers, filename: assets/KR3eg006_002.markers.yaml, hash: 'sha256:27039233ba85c35f9118810c7138a4af15d9f83d332fce09f3982da0e459f6ba'}
+  - {seq: 0, role: markers, filename: assets/KR3eg006_000.markers.yaml, hash: 'sha256:f52bf717495eb300163121276e107bba171d5d437962d4f47f67afbe81867981'}
+  - {seq: 1, role: markers, filename: assets/KR3eg006_001.markers.yaml, hash: 'sha256:6301ee6204dc73c5c2d977b4064d19ec6faa27a512e5306128ac96cb27386486'}
+  - {seq: 2, role: markers, filename: assets/KR3eg006_002.markers.yaml, hash: 'sha256:c75be08468400983a80b2c0007023fbb997ce96588584cef3e13da6285d433e8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -475,4 +475,7 @@ table_of_contents:
   label: 溫熱兼症醫案
   type: section
   level: 3
-hash: sha256:e01aab6ecbb2e4b3ce67319825cc32df73662c43065f456cb42078057534aad8
+hash: sha256:904c03e192259a0e83891e134f2272c39f18e1cc508cdaae9dc84aca87833d61
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
