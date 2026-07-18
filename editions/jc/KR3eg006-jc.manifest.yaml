@@ -22,8 +22,8 @@ assets:
   - {seq: 2, filename: KR3eg006_002-jc.yaml, hash: 'sha256:79e479cdbe2e8fd7e49165922da0c1c9cd8e8b9c2ba10442236e269a483ae1cf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eg006_000-jc.markers.yaml, hash: 'sha256:0fbffe1f1a973154939b4b568839a7b0c389fc4846b8f39f00047aba2d1f84b7'}
-  - {seq: 1, role: markers, filename: assets/KR3eg006_001-jc.markers.yaml, hash: 'sha256:ec32f9eb99c8d05d6b2dd70da1317327f7836df94446195a29392550d99b08df'}
-  - {seq: 2, role: markers, filename: assets/KR3eg006_002-jc.markers.yaml, hash: 'sha256:029732a7ea62a91ebfcca53fc98893e01d4e11a9160e70b4293ebd2e2e703ef3'}
+  - {seq: 1, role: markers, filename: assets/KR3eg006_001-jc.markers.yaml, hash: 'sha256:f5c6a5a6132408cb96a14af11cd8d3037d97bf78722852f1025c6b8fd9410b0b'}
+  - {seq: 2, role: markers, filename: assets/KR3eg006_002-jc.markers.yaml, hash: 'sha256:da8fb47aeb46938ea34659d67e7c010a585b6a487204a35d35419f4df1002e04'}
 table_of_contents:
 - ref:
     seq: 0
@@ -475,4 +475,4 @@ table_of_contents:
   label: 溫熱兼症醫案
   type: section
   level: 3
-hash: sha256:21c619c30eec4b4be9797ac66c3c294e429befd407727715075678219490acd8
+hash: sha256:d959bd45ec60f1ede55199fc6347297c5b3b53e61e18becbf825e7aeb16b21ce
